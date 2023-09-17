@@ -292,9 +292,6 @@ video{
 .card:hover .overlay{
     opacity: 1;
 }
-.card:hover{
-    transform: rotate3d(-1,1,0,20deg);
-} 
 
 #gold-div{
     height:30vh;
